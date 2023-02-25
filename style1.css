@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    padding: 3%;
+    color: whitesmoke;
+}
+body{
+    background-color: aqua;
+    
+    color: whitesmoke;
+}
+.red{
+    background-color: red;
+    padding: 4%;
+    }
+.blue{
+    background-color: blue;
+    padding: 3%;
+}
+.whit{
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+}
+.content{
+    padding: 3%;
+}
+.site-footer{
+    background-color: black;
+    color: whitesmoke;
+}
